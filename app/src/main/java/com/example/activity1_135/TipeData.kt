@@ -25,3 +25,10 @@ fun main() {
     val BooleanValue: Boolean = true
     println("Boolean: $BooleanValue")
 
+    // string
+    var stringValue: String = "hello, word!"
+    println("string: $stringValue")
+
+    stringValue = "hello, kotlin!"
+    println("string: $stringValue")
+}
